@@ -6,7 +6,7 @@ by segmenting these time series data to find different time intervals where user
 For each query, we set geo=PORT and the time interval to the collection's time interval. Here is an example of Google trends page 
 for query "cavaco silva". 
 
-![Alt text](file:///home/pehlivanz/CODES/GoogleTrends/Selection_001.png "Example of Google Trends ")
+![Alt text](https://github.com/ZeynepP/Working-with-PWA-Collection/blob/master/Temporal_Queries/Selection_001.png "Example of Google Trends ")
 
 ## Using Google Trends
 
