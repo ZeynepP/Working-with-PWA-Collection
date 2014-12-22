@@ -1,5 +1,13 @@
 package PWA.IndexingPWA;
 
+/*
+* THIS CODE IS TAKEN FROM DIFFERENT SOURCES 
+https://webarchive.jira.com/wiki/download/attachments/5841/ExtractorARC.java
+http://archive-access.sourceforge.net/projects/wax/xref/org/archive/access/nutch/ImportArcs.html
+https://code.google.com/p/pwa-technologies/source/browse/trunk/PwaProcessor/src/main/java/pt/arquivo/processor/ProcessArcs.java?spec=svn338&r=338
+
+*/
+
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
